@@ -1,0 +1,22 @@
+{
+  "name": "Dependency1",
+  "version": "0.1.0",
+  "summary": "A short description of Dependency1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GOKUXGOD/Dependency1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GOKUXGOD": "nits11.upadhyay@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/GOKUXGOD/Dependency1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Dependency1/Classes/**/*"
+}
